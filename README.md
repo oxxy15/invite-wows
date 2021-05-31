@@ -1,15 +1,6 @@
 # Инвайт код для world of warships
-Либо просто вставить ссылку, либо дополнительно задать текст ссылки (пробела между скобками быть не должно):
 
-http://example.com
-[example.com](http://example.com)
-
-Можно выводить через "константу", которую можно задать в любом месте, обычно их задают в конце документа.
-
-[example site]
-[example site]:http://example.com
-
-<p style="text-align:justify">Специальные [инвайт коды для World of Warships](https://mygameplus.ru/invayt-i-bonus-kod-wows/) <a href="https://mygameplus.ru/invayt-i-bonus-kod-wows/">инвайт коды для World of Warships</a> и ссылки дают новичками выгодные привилегии при регистрации в игре.&nbsp; По умолчанию новичок, перейдя по специальной ссылке ветерана WoW, получает редкие виды кораблей, premium аккаунт, флажки, кредиты и другое имущество, включая возможность идти в бой сразу на профессиональном флоте.&nbsp;Список активных инвайт-кодов.&nbsp;<br />
+<p style="text-align:justify">Специальные <a href="https://mygameplus.ru/invayt-i-bonus-kod-wows/">инвайт коды для World of Warships</a> и ссылки дают новичками выгодные привилегии при регистрации в игре.&nbsp; По умолчанию новичок, перейдя по специальной ссылке ветерана WoW, получает редкие виды кораблей, premium аккаунт, флажки, кредиты и другое имущество, включая возможность идти в бой сразу на профессиональном флоте.&nbsp;Список активных инвайт-кодов.&nbsp;<br />
   
   [![Watch the video](https://img.youtube.com/vi/zvrNGsdflyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=zvrNGsdflyE)
   
